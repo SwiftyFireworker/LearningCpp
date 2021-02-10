@@ -9,5 +9,6 @@
 #include <vector>
 
 int main() {
+    std::cout << "Main branch";
     return 0;
 }
