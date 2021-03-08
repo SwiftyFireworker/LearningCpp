@@ -13,7 +13,6 @@
 using namespace std;
 
 
-
 int main() {
     const int n = 100000;
     int numbers[n];
