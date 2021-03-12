@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		C81E47E425FA115B00699FDD /* fill_multi_array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C81E47E325FA115B00699FDD /* fill_multi_array.cpp */; };
+		C81E47E825FA4D6B00699FDD /* converter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C81E47E625FA4D6B00699FDD /* converter.cpp */; };
+		C81E47EC25FA504600699FDD /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C81E47EA25FA504600699FDD /* main.cpp */; };
 		C8A5360C25D454F200DEA6A9 /* Vector vs Set.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8A5360B25D454F200DEA6A9 /* Vector vs Set.cpp */; };
 		C8CD6E6525F6D31C002F6C2A /* Logging system.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8CD6E6425F6D31C002F6C2A /* Logging system.cpp */; };
 /* End PBXBuildFile section */
@@ -26,6 +28,8 @@
 
 /* Begin PBXFileReference section */
 		C81E47E325FA115B00699FDD /* fill_multi_array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = fill_multi_array.cpp; sourceTree = "<group>"; };
+		C81E47E625FA4D6B00699FDD /* converter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = converter.cpp; sourceTree = "<group>"; };
+		C81E47EA25FA504600699FDD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		C8A5360825D454F200DEA6A9 /* LearningCpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LearningCpp; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8A5360B25D454F200DEA6A9 /* Vector vs Set.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Vector vs Set.cpp"; sourceTree = "<group>"; };
 		C8CD6E6425F6D31C002F6C2A /* Logging system.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Logging system.cpp"; sourceTree = "<group>"; };
@@ -55,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				C81E47E325FA115B00699FDD /* fill_multi_array.cpp */,
+				C81E47E625FA4D6B00699FDD /* converter.cpp */,
 			);
 			path = "Sem 9-10";
 			sourceTree = "<group>";
@@ -78,6 +83,7 @@
 		C8A5360A25D454F200DEA6A9 /* LearningCpp */ = {
 			isa = PBXGroup;
 			children = (
+				C81E47EA25FA504600699FDD /* main.cpp */,
 				C81E47E225FA112100699FDD /* Sem 9-10 */,
 				C81E47E125FA110500699FDD /* Sem 7-8 */,
 			);
@@ -142,6 +148,8 @@
 			files = (
 				C8A5360C25D454F200DEA6A9 /* Vector vs Set.cpp in Sources */,
 				C81E47E425FA115B00699FDD /* fill_multi_array.cpp in Sources */,
+				C81E47E825FA4D6B00699FDD /* converter.cpp in Sources */,
+				C81E47EC25FA504600699FDD /* main.cpp in Sources */,
 				C8CD6E6525F6D31C002F6C2A /* Logging system.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
