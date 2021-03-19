@@ -1,14 +1,14 @@
+////
+////  converter.cpp
+////  LearningCpp
+////
+////  Created by Egor Denisov on 11.03.2021.
+////
 //
-//  converter.cpp
-//  LearningCpp
+//#include <iostream>
+//#include <locale>
+//#include <iomanip>
 //
-//  Created by Egor Denisov on 11.03.2021.
-//
-
-#include <iostream>
-#include <locale>
-#include <iomanip>
-
-int main() {
-    
-}
+//int main() {
+//    
+//}
